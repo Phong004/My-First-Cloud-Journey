@@ -1,6 +1,7 @@
 name: Deploy Hugo site to Git Pages
 
 on:
+  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
   workflow_dispatch:
