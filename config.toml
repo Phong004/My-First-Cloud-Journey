@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.fcjuni.com/"
+baseURL = "https://phong004.github.io/My-First-Cloud-Journey/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
@@ -17,7 +17,7 @@ home = [ "HTML", "RSS"]
   editURL = ""
   description = ""
   [params.author]
-  name = "thienlh@thienlu.com"
+  name = "phong.nguyenhoang2004@gmail.com"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
