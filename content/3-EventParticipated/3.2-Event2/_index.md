@@ -54,6 +54,6 @@ The event, held at the 26th Floor of the Bitexco tower, provided an incredibly i
 
 #### Proof of Participation
 * A check-in photo provided by the First Cloud Journey organizing committee:
-![Cloud Mastery 2026](../../images/3-EventParticipated/0S0A0016.jpg)
+![Cloud Mastery 2026](..//My-First-Cloud-Journey/images/3-EventParticipated/0S0A0016.jpg)
 
 > Overall, the "Cloud Mastery 2026" event not only provided a solid knowledge foundation in GenAI but also helped me recognize new security risks in the era of autonomous AI, directly supporting my career trajectory in Information Assurance.
