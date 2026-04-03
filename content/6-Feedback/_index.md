@@ -1,9 +1,9 @@
 ---
 title: "Sharing and Feedback"
 date: 2026-04-03
-weight: 7
+weight: 6
 chapter: false
-pre: " <b> 7. </b> "
+pre: " <b> 6. </b> "
 ---
 
 > Here, I would like to share my personal opinions and practical experiences during my internship at First Cloud AI Journey (FCAJ), particularly from the perspective of an intern pursuing the Information Assurance (Pentest/Red Team) path.

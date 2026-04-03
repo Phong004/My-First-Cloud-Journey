@@ -1,9 +1,9 @@
 ---
 title: "Chia sẻ, đóng góp ý kiến"
 date: 2026-04-03
-weight: 7
+weight: 6
 chapter: false
-pre: " <b> 7. </b> "
+pre: " <b> 6. </b> "
 ---
 
 > Tại đây tôi xin chia sẻ những ý kiến và trải nghiệm thực tế mang tính cá nhân trong suốt quá trình tham gia chương trình thực tập tại First Cloud AI Journey (FCAJ), đặc biệt là dưới góc độ của một thực tập sinh theo đuổi mảng An toàn thông tin (Pentest/Red Team).
