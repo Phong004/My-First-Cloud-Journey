@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-This page summarizes my entire worklog over the **12-week** internship at First Cloud Journey (FCJ). The internship roadmap was tightly integrated, combining AWS Cloud platform research, specialized self-training in Information Security, and hands-on application within the **FPT Event Management System** project.
+This page summarizes my entire worklog over the **12-week** internship at First Cloud AI Journey (FCAJ). The internship roadmap was tightly integrated, combining AWS Cloud platform research, specialized self-training in Information Security, and hands-on application within the **FPT Event Management System** project.
 
 Over these 12 weeks, I progressed from familiarizing myself with Cloud infrastructure and security architecture, to intensively training offensive skills via HackTheBox and TryHackMe, culminating in executing a comprehensive Penetration Testing workflow for the team's project.
 

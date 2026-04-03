@@ -10,7 +10,7 @@ pre: " <b> 3. </b> "
 > 
 > Việc tham gia các sự kiện này không chỉ giúp tôi cập nhật những xu hướng công nghệ đám mây và AI mới nhất, mà còn mở rộng góc nhìn về cách thiết kế kiến trúc bảo mật trong môi trường doanh nghiệp thực tế. Đây là cơ hội tuyệt vời để giao lưu, học hỏi từ các chuyên gia và cộng đồng Builder tại Việt Nam.
 
-Trong 3 tháng thực tập, tôi đã chủ động sắp xếp thời gian để tham gia 3 sự kiện lớn do cộng đồng AWS Việt Nam và FCJ tổ chức. Mỗi sự kiện đều mang lại những kiến thức chuyên sâu quý giá, hỗ trợ trực tiếp cho định hướng theo đuổi ngành An toàn thông tin của tôi.
+Trong 3 tháng thực tập, tôi đã chủ động sắp xếp thời gian để tham gia 3 sự kiện lớn do cộng đồng AWS Việt Nam và FCAJ tổ chức. Mỗi sự kiện đều mang lại những kiến thức chuyên sâu quý giá, hỗ trợ trực tiếp cho định hướng theo đuổi ngành An toàn thông tin của tôi.
 
 ### [Sự kiện 1: AWS re:Invent Recap HCMC](3.1-Event1/)
 &emsp;**Tên sự kiện:** AWS re:Invent Recap HCMC

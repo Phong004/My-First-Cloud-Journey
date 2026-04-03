@@ -16,9 +16,11 @@ chapter: false
 
 &emsp; **Ngành:** An toàn thông tin
 
-&emsp; **Công ty thực tập:** Bootcamp - First Cloud AI Journey @ AWS Study Group
+&emsp; **Lớp:** AWS042026
 
-&emsp; **Vị trí thực tập:** FCJ Cloud Intern
+&emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
+
+&emsp; **Vị trí thực tập:** FCAJ Cloud Intern
 
 &emsp; **Thời gian thực tập:** Từ ngày 05/01/2026 đến ngày 19/04/2026
 

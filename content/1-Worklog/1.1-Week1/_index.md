@@ -7,7 +7,7 @@ pre: " <b> 1.1. </b> "
 ---
 
 ### Week 1 Objectives:
-* Get familiar with the First Cloud Journey (FCJ) project workflow.
+* Get familiar with the First Cloud AI Journey (FCAJ) project workflow.
 * Build a foundational understanding of the Cloud environment; master AWS administration via both the web interface (Console) and command line (AWS CLI).
 * Apply basic security principles right from account creation (IAM management, setting up Billing/Budgets for cost control).
 
@@ -15,7 +15,7 @@ pre: " <b> 1.1. </b> "
 
 | Day | Task | Start Date | Completion Date | Resource / Material |
 | :--- | :--- | :--- | :--- | :--- |
-| Mon | - Familiarized with FCJ members and the working environment.<br> - Reviewed internship rules, regulations, and project deployment guidelines. | 05/01/2026 | 05/01/2026 | [FCJ Rules & Instructions](https://rules.fcjuni.com/) |
+| Mon | - Familiarized with FCAJ members and the working environment.<br> - Reviewed internship rules, regulations, and project deployment guidelines. | 05/01/2026 | 05/01/2026 | [FCAJ Rules & Instructions](https://rules.fcjuni.com/) |
 | Tue | - Researched AWS Whitepapers at the library.<br> - Learned foundational Cloud Computing concepts and deployment models (IaaS, PaaS, SaaS).<br> - Self-studied essential Cloud infrastructure components (Compute, Network, Storage, Database). | 06/01/2026 | 06/01/2026 | [Explore AWS Services](https://cloudjourney.awsstudygroup.com/1-explore/) |
 | Wed | - Created a secure AWS Free Tier account.<br> - Installed and configured AWS CLI locally.<br> - **Practice:** Set up secure Access/Secret Keys, configured default Region, and tested basic CLI commands. | 07/01/2026 | 07/01/2026 | [Explore AWS Services](https://cloudjourney.awsstudygroup.com/1-explore/) |
 | Thu | - Deep dive into Amazon EC2: Differentiated between Instance types and AMIs, explored EBS storage mechanisms, and configured basic Security Groups.<br> - Learned about secure remote protocols (SSH) into EC2. | 08/01/2026 | 09/01/2026 | [Explore AWS Services](https://cloudjourney.awsstudygroup.com/1-explore/) |

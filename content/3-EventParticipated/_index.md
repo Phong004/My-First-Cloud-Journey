@@ -10,7 +10,7 @@ pre: " <b> 3. </b> "
 > 
 > Attending these events not only helped me stay abreast of the latest cloud computing and AI trends but also broadened my perspective on designing security architectures within real-world enterprise environments. This presented an excellent opportunity to network and learn from industry experts (Solutions Architects) and the Builder community in Vietnam.
 
-Throughout the 3-month internship, I proactively managed my schedule to attend three major events organized by the AWS Vietnam community and FCJ. Each event provided invaluable, in-depth knowledge that directly supports my career trajectory in Information Assurance.
+Throughout the 3-month internship, I proactively managed my schedule to attend three major events organized by the AWS Vietnam community and FCAJ. Each event provided invaluable, in-depth knowledge that directly supports my career trajectory in Information Assurance.
 
 ### [Event 1: AWS re:Invent Recap HCMC](3.1-Event1/)
 &emsp;**Event Name:** AWS re:Invent Recap HCMC

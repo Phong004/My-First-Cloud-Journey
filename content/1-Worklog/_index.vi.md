@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-Trang này tổng hợp toàn bộ nhật ký công việc (Worklog) của mình trong suốt kỳ thực tập kéo dài **12 tuần** tại First Cloud Journey (FCJ). Lộ trình thực tập được thiết kế kết hợp chặt chẽ giữa việc nghiên cứu nền tảng AWS Cloud, tự đào tạo chuyên sâu về An toàn thông tin (chuyên ngành Information Assurance) và áp dụng thực chiến vào dự án **FPT Event Management System**.
+Trang này tổng hợp toàn bộ nhật ký công việc (Worklog) của mình trong suốt kỳ thực tập kéo dài **12 tuần** tại First Cloud AI Journey (FCAJ). Lộ trình thực tập được thiết kế kết hợp chặt chẽ giữa việc nghiên cứu nền tảng AWS Cloud, tự đào tạo chuyên sâu về An toàn thông tin (chuyên ngành Information Assurance) và áp dụng thực chiến vào dự án **FPT Event Management System**.
 
 Trong 12 tuần này, mình đã đi từ việc làm quen hạ tầng Cloud, cấu trúc kiến trúc bảo mật, đến việc cày cuốc các lộ trình rèn luyện kỹ năng tấn công (HackTheBox, TryHackMe), và đỉnh điểm là trực tiếp thực hiện quy trình Kiểm thử bảo mật (Penetration Testing) toàn diện cho dự án của nhóm.
 
