@@ -64,6 +64,6 @@ The event held at the Bitexco Financial Tower provided a highly modern and open 
 
 #### Souvenir Photo Gifted by the Organizers
 
-![Souvenir Photo](../../../static/images/3-EventParticipated/event-image-3.1.png)
+![Souvenir Photo](../../../images/3-EventParticipated/event-image-3.1.png)
 
 > In conclusion, the event was not merely an information reporting session but an excellent cognitive lever, fueling me with motivation and solid knowledge to complete my internship and upcoming projects.
