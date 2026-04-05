@@ -20,15 +20,15 @@ Amazon RDS là dịch vụ cơ sở dữ liệu quan hệ được quản lý ho
 
 - Nhập **RDS** vào thanh tìm kiếm và chọn dịch vụ **RDS**.
 
-![Tìm kiếm dịch vụ RDS](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-1.png)
+![Tìm kiếm dịch vụ RDS](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-1.png)
 
 - Nhấp vào mục **Databases** ở thanh công cụ bên trái để xem danh sách.
 
-![Chọn cơ sở dữ liệu](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image.png)
+![Chọn cơ sở dữ liệu](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image.png)
 
 - Xác nhận các database đã được tạo với trạng thái **Available**.
 
-![Xác nhận RDS tạo thành công](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-2.png)
+![Xác nhận RDS tạo thành công](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-2.png)
 
 ---
 
@@ -40,15 +40,15 @@ Amazon ElastiCache là dịch vụ bộ nhớ đệm (caching) tốc độ cao, 
 
 - Nhập **ElastiCache** vào thanh tìm kiếm và chọn dịch vụ **ElastiCache**.
 
-![Tìm kiếm dịch vụ ElastiCache](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-3.png)
+![Tìm kiếm dịch vụ ElastiCache](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-3.png)
 
 - Chọn mục **Redis clusters** ở thanh công cụ bên trái.
 
-![Chọn danh sách Redis clusters](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-4.png)
+![Chọn danh sách Redis clusters](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-4.png)
 
 - Xác nhận cluster Redis đã được tạo thành công với trạng thái **Available**.
 
-![Xác nhận Redis tạo thành công](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-5.png)
+![Xác nhận Redis tạo thành công](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-5.png)
 
 ---
 
@@ -60,8 +60,8 @@ Amazon SQS (Simple Queue Service) là hàng đợi thông điệp giúp các mic
 
 - Nhập **SQS** vào thanh tìm kiếm và chọn **Simple Queue Service**.
 
-![Tìm kiếm dịch vụ SQS](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-6.png)
+![Tìm kiếm dịch vụ SQS](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-6.png)
 
 - Xác nhận các hàng đợi (queues) đã được liệt kê đầy đủ trên giao diện.
 
-![Xác nhận SQS tạo thành công](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-7.png)
+![Xác nhận SQS tạo thành công](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-7.png)

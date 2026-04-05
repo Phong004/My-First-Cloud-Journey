@@ -20,15 +20,15 @@ Amazon API Gateway is the single secure entry point that handles all API calls f
 
 - Enter **API Gateway** in the search bar and select the service.
 
-![Search for API Gateway](/My-First-Cloud-Journey/images/4-workshop/4.5-verify-frontend/image.png)
+![Search for API Gateway](/My-First-Cloud-Journey/images/4-Workshop/4.5-Verify-frontend/image.png)
 
 - Select the deployed API (e.g., `fpt-event-api`).
 
-![Select fpt-event-api](/My-First-Cloud-Journey/images/4-workshop/4.5-verify-frontend/image-1.png)
+![Select fpt-event-api](/My-First-Cloud-Journey/images/4-Workshop/4.5-Verify-frontend/image-1.png)
 
 - Review the Routes to confirm they are fully configured to point to the internal microservices.
 
-![Check API Gateway Routes](/My-First-Cloud-Journey/images/4-workshop/4.5-verify-frontend/image-2.png)
+![Check API Gateway Routes](/My-First-Cloud-Journey/images/4-Workshop/4.5-Verify-frontend/image-2.png)
 
 ---
 
@@ -40,19 +40,19 @@ Amazon S3 is an object storage service used to host the static ReactJS frontend 
 
 - Enter **CloudFront** in the search bar and select the service.
 
-![Search for CloudFront](/My-First-Cloud-Journey/images/4-workshop/4.5-verify-frontend/image-6.png)
+![Search for CloudFront](/My-First-Cloud-Journey/images/4-Workshop/4.5-Verify-frontend/image-6.png)
 
 - Select **Distributions** from the left-hand menu.
 
-![Select Distributions](/My-First-Cloud-Journey/images/4-workshop/4.5-verify-frontend/image-7.png)
+![Select Distributions](/My-First-Cloud-Journey/images/4-Workshop/4.5-Verify-frontend/image-7.png)
 
 - Copy the **Distribution domain name** and open it in a browser to access the website.
 
-![Get CloudFront Domain Name](/My-First-Cloud-Journey/images/4-workshop/4.5-verify-frontend/image-8.png)
+![Get CloudFront Domain Name](/My-First-Cloud-Journey/images/4-Workshop/4.5-Verify-frontend/image-8.png)
 
 - A successfully rendered ReactJS interface confirms the entire system is working correctly.
 
-![ReactJS website interface](/My-First-Cloud-Journey/images/4-workshop/4.5-verify-frontend/image-3.png)
+![ReactJS website interface](/My-First-Cloud-Journey/images/4-Workshop/4.5-Verify-frontend/image-3.png)
 
 ---
 
@@ -64,8 +64,8 @@ AWS WAF is a web application firewall that detects and blocks malicious traffic 
 
 - Enter **WAF & Shield** in the search bar and select **Web ACLs**.
 
-![WAF & Shield page](/My-First-Cloud-Journey/images/4-workshop/4.5-verify-frontend/image-4.png)
+![WAF & Shield page](/My-First-Cloud-Journey/images/4-Workshop/4.5-Verify-frontend/image-4.png)
 
 - Confirm the Web ACL is created and correctly associated with your CloudFront Distribution.
 
-![Confirm WAF configuration on CloudFront](/My-First-Cloud-Journey/images/4-workshop/4.5-verify-frontend/image-5.png)
+![Confirm WAF configuration on CloudFront](/My-First-Cloud-Journey/images/4-Workshop/4.5-Verify-frontend/image-5.png)

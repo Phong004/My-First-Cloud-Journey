@@ -20,15 +20,15 @@ Amazon RDS is a fully managed relational database service — no server provisio
 
 - Enter **RDS** in the search bar and select the **RDS** service.
 
-![Search for RDS](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-1.png)
+![Search for RDS](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-1.png)
 
 - Select **Databases** from the left-hand menu.
 
-![Select RDS Databases](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image.png)
+![Select RDS Databases](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image.png)
 
 - Confirm all databases are created and show an **Available** status.
 
-![Confirm RDS success](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-2.png)
+![Confirm RDS success](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-2.png)
 
 ---
 
@@ -40,15 +40,15 @@ Amazon ElastiCache is a high-speed, fully managed caching service. It temporaril
 
 - Enter **ElastiCache** in the search bar and select the **ElastiCache** service.
 
-![Search for ElastiCache](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-3.png)
+![Search for ElastiCache](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-3.png)
 
 - Select **Redis clusters** from the left-hand menu.
 
-![Select Redis clusters](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-4.png)
+![Select Redis clusters](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-4.png)
 
 - Confirm the Redis cluster is created and shows an **Available** status.
 
-![Confirm Redis success](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-5.png)
+![Confirm Redis success](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-5.png)
 
 ---
 
@@ -60,8 +60,8 @@ Amazon SQS (Simple Queue Service) enables asynchronous communication between mic
 
 - Enter **SQS** in the search bar and select **Simple Queue Service**.
 
-![Search for SQS](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-6.png)
+![Search for SQS](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-6.png)
 
 - Confirm that your SQS queues are listed correctly in the console.
 
-![Confirm SQS success](/My-First-Cloud-Journey/images/4-workshop/4.3-verify-data-messaging/image-7.png)
+![Confirm SQS success](/My-First-Cloud-Journey/images/4-Workshop/4.3-Verify-data-messaging/image-7.png)

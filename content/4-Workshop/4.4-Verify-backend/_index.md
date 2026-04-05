@@ -20,19 +20,19 @@ Amazon ECS is a container orchestration service for managing Docker containers. 
 
 - Enter **ECS** in the search bar and select **Elastic Container Service**.
 
-![Search for ECS](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image.png)
+![Search for ECS](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image.png)
 
 - Select your Cluster and review the list of services (`auth-service`, `event-service`, `ticket-service`, `venue-service`, `notification-service`).
 
-![List of ECS Services](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-1.png)
+![List of ECS Services](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-1.png)
 
 - Confirm all services are in an **Active** state.
 
-![ECS Service Active state](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-2.png)
+![ECS Service Active state](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-2.png)
 
 - Verify the **Running Tasks** count matches your desired configuration.
 
-![Running Tasks count](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-3.png)
+![Running Tasks count](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-3.png)
 
 ---
 
@@ -44,22 +44,22 @@ The Application Load Balancer is an intelligent traffic distributor — it recei
 
 - Enter **EC2** in the search bar and navigate to the **EC2 Console**.
 
-![Search for EC2 Console](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-4.png)
+![Search for EC2 Console](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-4.png)
 
 - In the left menu, scroll down to **Load Balancing** and select **Load Balancers**.
 
-![Select Load Balancers](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-5.png)
+![Select Load Balancers](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-5.png)
 
 - Select the internal ALB (e.g., `fpt-event-alb`).
 
-![Select internal ALB](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-6.png)
+![Select internal ALB](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-6.png)
 
 - Open the **Listeners and rules** tab to review routing configurations.
 
-![Listeners and Rules tab](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-7.png)
+![Listeners and Rules tab](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-7.png)
 
 - Navigate to **Target Groups** (left menu, below Load Balancers) and confirm all containers pass the Health Check showing a **Healthy** status.
 
-![Target Groups Healthy status](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-8.png)
+![Target Groups Healthy status](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-8.png)
 
-![Target Group Health Check detail](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-9.png)
+![Target Group Health Check detail](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-9.png)

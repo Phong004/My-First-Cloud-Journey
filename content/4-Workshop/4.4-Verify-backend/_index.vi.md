@@ -20,19 +20,19 @@ Amazon ECS là dịch vụ quản lý và điều phối các container Docker. 
 
 - Nhập **ECS** vào thanh tìm kiếm và chọn **Elastic Container Service**.
 
-![Tìm kiếm dịch vụ ECS](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image.png)
+![Tìm kiếm dịch vụ ECS](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image.png)
 
 - Chọn Cluster tương ứng và xem danh sách các service (`auth-service`, `event-service`, `ticket-service`, `venue-service`, `notification-service`).
 
-![Danh sách các ECS Service](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-1.png)
+![Danh sách các ECS Service](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-1.png)
 
 - Đảm bảo tất cả service đều ở trạng thái **Active**.
 
-![Trạng thái Active của Service](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-2.png)
+![Trạng thái Active của Service](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-2.png)
 
 - Xác nhận số lượng **Running Tasks** khớp với cấu hình mong muốn.
 
-![Kiểm tra số lượng Running Tasks](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-3.png)
+![Kiểm tra số lượng Running Tasks](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-3.png)
 
 ---
 
@@ -44,22 +44,22 @@ Application Load Balancer là bộ phân phối tải thông minh — nó nhận
 
 - Nhập **EC2** vào thanh tìm kiếm và truy cập **EC2 Console**.
 
-![Tìm kiếm EC2 Console](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-4.png)
+![Tìm kiếm EC2 Console](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-4.png)
 
 - Ở thanh menu bên trái, cuộn xuống phần **Load Balancing** và chọn **Load Balancers**.
 
-![Chọn Load Balancers](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-5.png)
+![Chọn Load Balancers](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-5.png)
 
 - Chọn ALB nội bộ của hệ thống (ví dụ: `fpt-event-alb`).
 
-![Chọn ALB nội bộ](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-6.png)
+![Chọn ALB nội bộ](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-6.png)
 
 - Chọn tab **Listeners and rules** để xem các cấu hình định tuyến.
 
-![Kiểm tra Listeners and Rules](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-7.png)
+![Kiểm tra Listeners and Rules](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-7.png)
 
 - Truy cập **Target Groups** (thanh menu bên trái, bên dưới Load Balancers) và đảm bảo tất cả container đều vượt qua Health Check với trạng thái **Healthy**.
 
-![Trạng thái Healthy của Target Groups](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-8.png)
+![Trạng thái Healthy của Target Groups](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-8.png)
 
-![Chi tiết Target Group Health Check](/My-First-Cloud-Journey/images/4-workshop/4.4-verify-backend/image-9.png)
+![Chi tiết Target Group Health Check](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-9.png)
