@@ -62,6 +62,6 @@ Sự kiện diễn ra tại Tầng 26 tháp Bitexco mang lại một không gian
 
 #### Minh chứng tham gia sự kiện
 
-![Cloud Mastery 2026 #2](/My-First-Cloud-Journey/images/3-EventParticipated/event-image-3.3.jpg)
+![Cloud Mastery 2026 #2](/images/3-EventParticipated/event-image-3.3.jpg)
 
 > Tổng kết lại, sự kiện "Cloud Mastery #2" không chỉ cung cấp nền tảng kiến thức vững chắc về kiến trúc Cloud Native mà còn giúp tôi nhìn nhận các rủi ro bảo mật mới trong việc quản lý hạ tầng, hỗ trợ trực tiếp cho định hướng theo đuổi ngành An toàn thông tin.

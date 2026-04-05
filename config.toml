@@ -1,5 +1,5 @@
 baseURL = "https://phong004.github.io/My-First-Cloud-Journey/"
-relativeURLs = false
+relativeURLs = true
 canonifyURLs = false
 defaultContentLanguage = "en"
 

@@ -56,6 +56,6 @@ Sự kiện diễn ra tại Tầng 26 tháp Bitexco mang lại cảm hứng họ
 
 #### Minh chứng tham gia sự kiện
 
-![Cloud Mastery 2026](/My-First-Cloud-Journey/images/3-EventParticipated/0S0A0016.jpg)
+![Cloud Mastery 2026](/images/3-EventParticipated/0S0A0016.jpg)
 
 > Tổng kết lại, sự kiện "Cloud Mastery 2026" không chỉ cung cấp nền tảng kiến thức vững chắc về GenAI mà còn giúp tôi nhìn nhận các rủi ro bảo mật mới trong kỷ nguyên AI tự chủ, hỗ trợ trực tiếp cho định hướng theo đuổi ngành An toàn thông tin.
