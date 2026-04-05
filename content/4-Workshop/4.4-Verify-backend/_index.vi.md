@@ -13,38 +13,38 @@ Các microservices của hệ thống được lập trình ẩn ở vùng mạn
 1. **Kiểm tra trạng thái ECS Clusters và Services:**
    - Truy cập **Amazon ECS Console** trên thanh tìm kiếm.
    
-   ![Giao diện tìm kiếm ECS](/images/4.4-Verify-backend/image.png)
+   ![Giao diện tìm kiếm ECS](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image.png)
    
    - Chọn Cluster tương ứng và kiểm tra danh sách các dịch vụ (`auth-service`, `event-service`, `ticket-service`, `venue-service`, `notification-service`).
    
-   ![Danh sách các ECS Service](/images/4.4-Verify-backend/image-1.png)
+   ![Danh sách các ECS Service](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-1.png)
    
    - Đảm bảo rằng tất cả các service đều đang ở trạng thái triển khai thành công (**Active** / **Running**).
    
-   ![Trạng thái Service](/images/4.4-Verify-backend/image-2.png)
+   ![Trạng thái Service](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-2.png)
    
    - Đảm bảo số lượng **Running Tasks** khớp với yêu cầu hệ thống định sẵn.
    
-   ![Kiểm tra số lượng task](/images/4.4-Verify-backend/image-3.png)
+   ![Kiểm tra số lượng task](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-3.png)
 
 2. **Kiểm tra Target Groups ở Application Load Balancer:**
    - Để kiểm tra khả năng định tuyến đến các container, vào giao diện **EC2 Console**.
    
-   ![Giao diện tìm kiếm EC2](/images/4.4-Verify-backend/image-4.png)
+   ![Giao diện tìm kiếm EC2](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-4.png)
    
    - Ở thanh menu bên trái, cuộn xuống phần **Load Balancing** và chọn **Load Balancers**.
    
-   ![Chọn Load Balancers](/images/4.4-Verify-backend/image-5.png)
+   ![Chọn Load Balancers](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-5.png)
    
    - Chọn ALB nội bộ của hệ thống (ví dụ: `fpt-event-alb`).
    
-   ![Chọn ALB nội bộ](/images/4.4-Verify-backend/image-6.png)
+   ![Chọn ALB nội bộ](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-6.png)
    
    - Qua tab **Listeners and rules** để kiểm tra các cấu hình định tuyến.
    
-   ![Kiểm tra Listeners and Rules](/images/4.4-Verify-backend/image-7.png)
+   ![Kiểm tra Listeners and Rules](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-7.png)
    
    - Truy cập phần **Target Groups** (ở thanh menu bên trái, phía dưới Load Balancers), xem từng Target Group và đảm bảo tất cả các container đều vượt qua Health Check (trạng thái **Healthy**).
    
-   ![Trạng thái Healthy Target Groups](/images/4.4-Verify-backend/image-8.png)
-    ![alt text](/images/4.4-Verify-backend/image-9.png)
+   ![Trạng thái Healthy Target Groups](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-8.png)
+    ![alt text](/My-First-Cloud-Journey/images/4-Workshop/4.4-Verify-backend/image-9.png)

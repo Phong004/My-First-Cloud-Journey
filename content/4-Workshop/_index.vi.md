@@ -1,14 +1,14 @@
 ---
 title: "Workshop"
 date: 2024-01-01
-weight: 5
+weight: 4
 chapter: false
 pre: " <b> 4. </b> "
 ---
 
 # Thiết lập Hệ thống Quản lý Sự kiện FPT trên nền tảng AWS Microservices
 
-![FPT Event Management Architecture](/images/2-Proposal/fpt-event-management.jpg)
+![FPT Event Management Architecture](/My-First-Cloud-Journey/images/2-Proposal/fpt-event-management.jpg)
 
 #### Tổng quan
 

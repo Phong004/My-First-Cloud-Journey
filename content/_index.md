@@ -24,7 +24,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 05/01/2026 to 19/04/2026
 
-![Your profile picture](/images/avatar.png)
+![Your profile picture](/My-First-Cloud-Journey/images/avatar.png)
 
 ### Report Content
 

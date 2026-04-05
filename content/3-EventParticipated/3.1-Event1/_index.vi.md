@@ -64,6 +64,6 @@ Sự kiện diễn ra tại tòa tháp Bitexco Financial Tower mang đến một
 
 #### Ảnh quà lưu niệm ban tổ chức tặng sau sự kiện
 
-![Quà lưu niệm](/images/3-EventParticipated/event-image-3.1.png)
+![Quà lưu niệm](/My-First-Cloud-Journey/images/3-EventParticipated/event-image-3.1.png)
 
 > Tổng kết lại, sự kiện không chỉ là một buổi báo cáo thông tin đơn thuần mà còn là đòn bẩy tư duy tuyệt vời, tiếp thêm cho tôi động lực và kiến thức vững chắc để hoàn thiện kỳ thực tập cũng như dự án sắp tới.

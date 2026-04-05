@@ -23,4 +23,4 @@ Trong bài thực hành này, bạn sẽ triển khai toàn bộ kiến trúc th
 + **Kiểm tra Backend & Networking:** Thử nghiệm gọi API nội bộ qua Application Load Balancer và đảm bảo các container microservices chạy ổn định trên ECS Fargate.
 + **Kiểm tra Frontend & Edge:** Truy cập giao diện web React được lưu trữ toàn cầu qua CloudFront và xem cách AWS WAF bảo vệ mạng lưới.
 
-![FPT Event Management Architecture](/images/4.1-Workshop-overview/platform.jpg))
+![FPT Event Management Architecture](/My-First-Cloud-Journey/images/4-Workshop/4.1-Workshop-overview/platform.jpg))

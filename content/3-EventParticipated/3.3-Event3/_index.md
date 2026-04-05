@@ -62,6 +62,6 @@ The event took place at the 26th floor of the Bitexco tower, providing a dynamic
 
 #### Proof of Participation
 
-![Cloud Mastery 2026 #2](/images/3-EventParticipated/event-image-3.3.jpg)
+![Cloud Mastery 2026 #2](/My-First-Cloud-Journey/images/3-EventParticipated/event-image-3.3.jpg)
 
 > In conclusion, the "Cloud Mastery #2" event not only provided a solid knowledge foundation in Cloud Native architecture but also helped me recognize new security risks in infrastructure management, directly supporting my career trajectory in Information Assurance.

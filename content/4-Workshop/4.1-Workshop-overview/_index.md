@@ -23,4 +23,4 @@ In this workshop, you will deploy the entire architecture via Infrastructure as 
 + **Verify Backend & Networking:** Test internal APIs via the Application Load Balancer and ensure microservices are successfully running on ECS Fargate.
 + **Verify Frontend & Edge:** Access the fully functional React frontend distributed globally via CloudFront and secure traffic through AWS WAF.
 
-![FPT Event Management Architecture](/images/4.1-Workshop-overview/platform.jpg)
+![FPT Event Management Architecture](/My-First-Cloud-Journey/images/4-Workshop/4.1-Workshop-overview/platform.jpg)
