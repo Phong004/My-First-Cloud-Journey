@@ -23,11 +23,22 @@ Throughout the 3-month internship, I proactively managed my schedule to attend t
 
 ---
 
-### [Event 2: Cloud Mastery 2026 - #1 AI From Scratch](3.2-Event2/)
+### [Event 2: Cloud Mastery 2026: #1 AI From Scratch](3.2-Event2/)
 &emsp;**Event Name:** Cloud Mastery 2026: #1 AI From Scratch
 
 &emsp;**Date & Time:** 09:00 AM - 12:00 PM, Saturday, March 14, 2026
 
 &emsp;**Location:** 26th Floor, Bitexco Financial Tower, 02 Hai Trieu Street, District 1, Ho Chi Minh City
+
+&emsp;**Role:** Attendee 
+
+---
+
+### [Event 3: Cloud Mastery 2026 #2: IaC, K8s & DevOps](3.3-Event3/)
+&emsp;**Event Name:** Cloud Mastery 2026 #2: IaC, K8s & DevOps
+
+&emsp;**Date & Time:** 09:00 AM - 12:00 PM, Saturday, April 4, 2026
+
+&emsp;**Location:** Hall Academic (5th Floor), FPT University HCMC Campus, Lot E2a-7, D1 Street, Saigon Hi-Tech Park, Tang Nhon Phu Ward, Ho Chi Minh City
 
 &emsp;**Role:** Attendee

@@ -16,7 +16,7 @@ chapter: false
 
 &emsp; **Ngành:** An toàn thông tin
 
-&emsp; **Lớp:** AWS042026
+&emsp; **Mã số sinh viên:** SE184915 
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 

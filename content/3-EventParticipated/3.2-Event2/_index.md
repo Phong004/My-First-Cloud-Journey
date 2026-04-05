@@ -7,14 +7,16 @@ pre: " <b> 3.2. </b> "
 ---
 
 ### Event Objectives
+
 - Equip attendees with foundational and advanced knowledge of Prompt Engineering to optimize token costs and mitigate hallucination phenomena when working with AI.
 - Understand the methodology of building AI Agents, specifically Strands Agents, with capabilities for autonomous planning and interaction with external tools.
 - Explore Artificial Intelligence of Things (AIoT) application models through real-world projects deployed on the AWS Cloud platform.
 
 ### Speakers
-- **Dinh Le Hoang** - AI Engineer.
-- **Vinh Banh Cam** - Data Engineer.
-- **Thinh Nguyen Tuan** - DevOps Engineer.
+
+- **Le Hoang Dinh** - AI Engineer.
+- **Banh Cam Vinh** - Data Engineer.
+- **Nguyen Tuan Thinh** - DevOps Engineer.
 
 ### Key Highlights
 
@@ -39,13 +41,13 @@ pre: " <b> 3.2. </b> "
 #### Security Awareness
 - The process of AI Agents calling system APIs and fetching real-time data introduces a massive security risk (Attack Surface). Without strict Identity and Access Management (IAM) controls, hackers can utilize Prompt Injection to deceive Agents into executing malicious code.
 
-### Practical Applications
+### Applying to Work
 
 - **Optimizing Pentest Workflow:** Applying advanced techniques like Chain-of-Thought (CoT) to leverage LLMs in writing vulnerability exploitation scripts and automatically synthesizing the "Penetration Test Report" for the FPT Event Management System project.
 - **IoT & Cloud Security:** Insights from the Locker Management project clarified the communication flow between IoT devices and the AWS Cloud, enabling me to construct test cases evaluating internal network configurations and the API Gateway.
 - **Expanding Red Teaming:** Further researching Strands Agents to program autonomous agents that assist in target information gathering (Reconnaissance) during future simulated attack campaigns.
 
-### Event Experience 
+### Event Experience
 
 The event, held at the 26th Floor of the Bitexco tower, provided an incredibly inspiring space for learning and working in an office environment.
 
@@ -53,7 +55,7 @@ The event, held at the 26th Floor of the Bitexco tower, provided an incredibly i
 - Understanding output/input costs (Token Economics) served as a stern reminder: In a Cloud environment, a loosely written command doesn't just cause logic errors but also results in direct financial damage.
 
 #### Proof of Participation
-* A check-in photo provided by the First Cloud Journey organizing committee:
+
 ![Cloud Mastery 2026](/My-First-Cloud-Journey/images/3-EventParticipated/0S0A0016.jpg)
 
 > Overall, the "Cloud Mastery 2026" event not only provided a solid knowledge foundation in GenAI but also helped me recognize new security risks in the era of autonomous AI, directly supporting my career trajectory in Information Assurance.

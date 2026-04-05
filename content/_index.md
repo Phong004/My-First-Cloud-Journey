@@ -8,7 +8,7 @@ chapter: false
 ### Student Information:
 &emsp; **Full Name:** Nguyen Hoang Thanh Phong  
 
-&emsp; **Phone Number:** 0364382348 
+&emsp; **Phone Number:** 0364382348
 
 &emsp; **Email:** phongnhtse184915@fpt.edu.vn
 
@@ -16,7 +16,7 @@ chapter: false
 
 &emsp; **Major:** Information Assurance
 
-&emsp; **Class:** AWS042026
+&emsp; **Student ID:** SE184915
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
